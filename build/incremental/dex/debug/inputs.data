@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370095637000 395 8e411f31efd9e40a464442621e3adaa1253c88fd /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$drawable.class
+1370095759000 637 72d7eec51cc751e301909bdb81f3e6158a5ac344 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R.class
+1370095759000 460 482739f9a7de52c47bb257ad0f2ed975328fae6c /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$string.class
+1370095759000 444 485ac3719badf17a7ee4829e081258dd09e834f9 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$id.class
+1370095637000 449 61dc359d94cb406c98f40bfeb0e759fc39aabe1a /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$dimen.class
+1370096424000 2306 75b178e712ad01a0594e1bdf4f39c1044b7705ce /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/com/google/zxing/integration/android/IntentIntegrator$1.class
+1370096424000 1949 18ae940be2a84b41359c849ef1ac36908d84f49b /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/com/google/zxing/integration/android/IntentResult.class
+1370096424000 2346 6e98147fd21cd21e25b454aec98dbb4fea5a4665 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/MainActivity.class
+1370095637000 328 5c390524de7bfbde9269d624a71dc95de4e2c99e /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$attr.class
+1370095759000 391 a791b14b615db7ba86c7263714bd9326699a5cc2 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$layout.class
+1370095759000 376 8734d9baaed6b6722a1b97aa90a8e567d5b13416 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$menu.class
+1370095601000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/libs/android-support-v4.jar
+1370096424000 986 902b01ab94c1e8c02f3bbdef366cc6bd0705a979 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/com/google/zxing/integration/android/IntentIntegrator$2.class
+1370096424000 11966 07bf704d696936372f67a46da709ce12837dca13 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/com/google/zxing/integration/android/IntentIntegrator.class
+1370095637000 337 f3be202983dbbe92e74b42021503bc3775f42e14 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/BuildConfig.class
+1370095759000 419 3419d43e18e67f5249462e22f87daa7f6f2a8c48 /Users/fernandoMac/developer/java/workspace/ScanItProject/ScanIt/build/classes/debug/org/nando/scan/R$style.class
